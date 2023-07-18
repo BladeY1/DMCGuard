@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "dmccontrol.h": "c",
+        "common.h": "c",
+        "string.h": "c",
+        "local.h": "c"
+    }
+}

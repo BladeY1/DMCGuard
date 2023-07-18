@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "dmctoken.h": "c",
+        "dmccontrol.h": "c",
+        "string.h": "c",
+        "devicecontrol.h": "c",
+        "tizigbee.h": "c"
+    }
+}

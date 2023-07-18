@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>SerialApp/EndDeviceEB-Pro</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>206</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Find-in-Files><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files><Debug-Log><ColumnWidth0>26</ColumnWidth0><ColumnWidth1>1215</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26421-21897</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SerialApp</ExpandedNode><ExpandedNode>SerialApp/App</ExpandedNode><ExpandedNode>SerialApp/HAL</ExpandedNode><ExpandedNode>SerialApp/HAL/Common</ExpandedNode><ExpandedNode>SerialApp/HAL/Target</ExpandedNode><ExpandedNode>SerialApp/HAL/Target/CC2530EB</ExpandedNode><ExpandedNode>SerialApp/HAL/Target/CC2530EB/Config</ExpandedNode><ExpandedNode>SerialApp/HAL/Target/CC2530EB/Drivers</ExpandedNode><ExpandedNode>SerialApp/HAL/Target/CC2530EB/Drivers/hal_adc.c</ExpandedNode><ExpandedNode>SerialApp/Tools</ExpandedNode><ExpandedNode>SerialApp/ZDO</ExpandedNode><ExpandedNode>SerialApp/ZDO/ZDApp.c</ExpandedNode><ExpandedNode>SerialApp/ZMac</ExpandedNode><ExpandedNode>SerialApp/ZMac/zmac.c</ExpandedNode><ExpandedNode>SerialApp/ZMac/zmac_cb.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18872-22243</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-27302-5078</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-26417-22573</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\SerialApp.c</Filename><XPos>0</XPos><YPos>331</YPos><SelStart>8029</SelStart><SelEnd>8029</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Tools\CC2530DB\f8wConfig.cfg</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Tools\CC2530DB\f8w2530.xcl</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>1603</SelStart><SelEnd>1603</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\COMPONENTS\HAL\INCLUDE\hal_uart.h</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>3636</SelStart><SelEnd>3654</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\ZMain\TI2530DB\ZMain.c</Filename><XPos>0</XPos><YPos>114</YPos><SelStart>4151</SelStart><SelEnd>4151</SelEnd></Tab><ActiveTab>4</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\SerialApp.h</Filename><XPos>0</XPos><YPos>58</YPos><SelStart>3213</SelStart><SelEnd>3213</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\stack\zdo\ZDApp.c</Filename><XPos>0</XPos><YPos>351</YPos><SelStart>11117</SelStart><SelEnd>11117</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\COMPONENTS\HAL\TARGET\CC2530EB\hal_board_cfg.h</Filename><XPos>0</XPos><YPos>310</YPos><SelStart>15164</SelStart><SelEnd>15164</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\COMPONENTS\HAL\INCLUDE\hal_defs.h</Filename><XPos>0</XPos><YPos>55</YPos><SelStart>2678</SelStart><SelEnd>2678</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\osal\common\OSAL.c</Filename><XPos>0</XPos><YPos>826</YPos><SelStart>21698</SelStart><SelEnd>21698</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\OSAL_SerialApp.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\stack\af\AF.c</Filename><XPos>0</XPos><YPos>333</YPos><SelStart>10744</SelStart><SelEnd>10744</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\COMPONENTS\mac\HIGH_LEVEL\mac_high_level.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\COMPONENTS\mac\HIGH_LEVEL\mac_main.h</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>1464</SelStart><SelEnd>1464</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\COMPONENTS\mac\include\mac_api.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1742</SelStart><SelEnd>1742</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\COMPONENTS\zmac\ZMAC.h</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1818</SelStart><SelEnd>1818</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\mac\low_level\srf04\single_chip\mac_radio_defs.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\mac\low_level\srf04\single_chip\mac_radio_defs.h</Filename><XPos>0</XPos><YPos>150</YPos><SelStart>6251</SelStart><SelEnd>6251</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-073417f8><key>iaridepm.enu1</key></Toolbar-073417f8></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>676</Bottom><Right>297</Right><x>-2</x><y>-2</y><xscreen>367</xscreen><yscreen>190</yscreen><sizeHorzCX>214997</sizeHorzCX><sizeHorzCY>207197</sizeHorzCY><sizeVertCX>175161</sizeVertCX><sizeVertCY>739368</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>196</Bottom><Right>1709</Right><x>-2</x><y>-2</y><xscreen>1711</xscreen><yscreen>198</yscreen><sizeHorzCX>1002343</sizeHorzCX><sizeHorzCY>215921</sizeHorzCY><sizeVertCX>214997</sizeVertCX><sizeVertCY>207197</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
